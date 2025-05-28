@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="">
+        <a href="https://miniproject-sl4gzxd6vdf9uygpuayqym.streamlit.app/">
           <img src="class0520.png" alt="Project 2" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>💡 Project 2 Name</h3>
@@ -43,7 +43,7 @@
         <p><sub>프로젝트 2 설명</sub></p>
       </td>
       <td width="50%" align="center">
-        <a href="https://your-project3-url.com">
+        <a href="https://appuct5-jdqb6huxhvrltjjvbate9n.streamlit.app/">
           <img src="miniphotofolio.png" alt="Project 3" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>🔥 Project 3 Name</h3>
