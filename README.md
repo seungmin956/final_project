@@ -37,8 +37,7 @@
         </a>
         <h3>💡 Project 2 Name</h3>
         <p>
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://miniproject-sl4gzxd6vdf9uygpuayqym.streamlit.app/" />
         </p>
         <p><sub>프로젝트 2 설명</sub></p>
       </td>
