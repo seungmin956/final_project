@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://your-project1-url.com">
-    <img src="./a1.png" alt="Main Project" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" width="85%">
+    <img src="riskkiller.png" alt="Main Project" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" width="85%">
   </a>
   
   <br><br>
@@ -33,7 +33,7 @@
     <tr>
       <td width="50%" align="center">
         <a href="">
-          <img src="./riskkiller.png" alt="Project 2" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
+          <img src="class0520.png" alt="Project 2" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>💡 Project 2 Name</h3>
         <p>
@@ -44,7 +44,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://your-project3-url.com">
-          <img src="class0520.png" alt="Project 3" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
+          <img src="miniphotofolio.png" alt="Project 3" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>🔥 Project 3 Name</h3>
         <p>
