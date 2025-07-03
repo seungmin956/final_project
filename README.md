@@ -9,7 +9,7 @@
 ## ✨ Featured Project
 
 <div align="center">
-  <a href="https://your-project1-url.com">
+  <a href="https://riskkiller.streamlit.app/">
     <img src="riskkiller.png" alt="Main Project" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" width="85%">
   </a>
   
