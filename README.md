@@ -43,8 +43,8 @@
         <p><sub>프로젝트 2 설명</sub></p>
       </td>
       <td width="50%" align="center">
-        <a href="https://appuct5-jdqb6huxhvrltjjvbate9n.streamlit.app/">
-          <img src="miniphotofolio.png" alt="Project 3" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
+        <a href="https://toiletprojectlfs-ynkzmvwgtayrtclo8ikz5a.streamlit.app//">
+          <img src="toilet.png" alt="Project 3" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>🔥 Project 3 Name</h3>
         <p>
@@ -64,7 +64,7 @@
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,tailwind,figma,git" />
+    <img src="https://toiletprojectlfs-ynkzmvwgtayrtclo8ikz5a.streamlit.app/" />
   </p>
 </div>
 
