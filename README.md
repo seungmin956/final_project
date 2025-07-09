@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://miniproject-sl4gzxd6vdf9uygpuayqym.streamlit.app/">
+        <a href="https://miniproject-jr8xxsqb9p6kt67sspri2d.streamlit.app/">
           <img src="class0520.png" alt="Project 2" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>💡 Project 2 Name</h3>
