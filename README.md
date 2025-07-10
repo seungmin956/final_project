@@ -52,7 +52,13 @@
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
         </p>
         <p><sub>프로젝트 3 설명</sub></p>
-      </td>
+      </td>### 💡 핵심 발견
+- 여성 화장실 구조적 불평등 통계적 입증
+- 출퇴근 시간대 화장실 대란 정량화
+- 지역별 우선순위 기반 정책 제안
+
+### 🛠 기술 스택
+Python | Streamlit | Plotly | Pandas | SciPy
     </tr>
   </table>
 </div>
