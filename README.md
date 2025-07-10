@@ -8,18 +8,37 @@
 
 <div align="center">
   <a href="https://riskkiller.streamlit.app/">
-    <img src="riskkiller.png" alt="Main Project" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" width="85%">
+    <img src="riskkiller.png" alt="Risk Killer" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" width="85%">
   </a>
   
   <br><br>
   
-  <h3>🎯 Project Name Here</h3>
+  <h3>🎯 Risk Killer</h3>
+  <p><sub>프로젝트에 대한 간단한 설명을 여기에 작성하세요</sub></p>
+  <br>
   <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   </p>
-  <p><i>프로젝트에 대한 간단한 설명을 여기에 작성하세요</i></p>
+  <p>
+    <strong>🎯 핵심 성과:</strong><br>
+    • 성과 1번을 여기에 작성하세요<br>
+    • 성과 2번을 여기에 작성하세요<br>
+    • 성과 3번을 여기에 작성하세요<br>
+    • 성과 4번을 여기에 작성하세요<br>
+    • 성과 5번을 여기에 작성하세요
+  </p>
+  <p>
+    <a href="https://riskkiller.streamlit.app/">
+      <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+    </a>
+    <a href="./riskkiller_portfolio.pdf">
+      <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 <br><br>
@@ -35,7 +54,7 @@
         </a>
         <h3>🔍 AI 기반 네이버 블로그 분석 시스템</h3>
         <p><sub>협찬 글 범람 시대, 객관적 정보만 추출하는 스마트 솔루션</sub></p>
-        <br>  <!-- ✅ 여기는 맞음! -->
+        <br>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -55,8 +74,8 @@
           <a href="https://your-streamlit-app-url.streamlit.app/">
             <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
           </a>
-          <a href="./toilet_analysis_report.pdf">
-            <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+          <a href="./blog_analysis_portfolio.pdf">
+            <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
         </p>
       </td>
@@ -66,7 +85,7 @@
         </a>
         <h3>🚻 서울시 화장실 수급 현황 분석</h3>
         <p><sub>데이터로 풀어보는 도시 인프라 불평등 문제</sub></p>
-        <br>  <!-- ✅ 오른쪽에도 동일하게 추가 -->
+        <br>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
