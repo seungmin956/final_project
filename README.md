@@ -35,8 +35,8 @@
     <a href="https://riskkiller.streamlit.app/">
       <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
     </a>
-    <a href="./riskkiller_portfolio.pdf">
-      <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <a href="./toilet_analysis_report.pdf">
+            <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
     </a>
   </p>
 </div>
@@ -74,8 +74,8 @@
           <a href="https://your-streamlit-app-url.streamlit.app/">
             <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
           </a>
-          <a href="./blog_analysis_portfolio.pdf">
-            <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+          <a href="./toilet_analysis_report.pdf">
+            <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
         </p>
       </td>
