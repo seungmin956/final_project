@@ -59,9 +59,6 @@
           <a href="./blog_analysis_portfolio.pdf">
             <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
-          <a href="https://github.com/seungmin956/blog-analysis-system">
-            <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
         </p>
       </td>
       <td width="50%" align="center">
