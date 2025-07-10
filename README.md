@@ -32,15 +32,38 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://miniproject-jr8xxsqb9p6kt67sspri2d.streamlit.app/">
-          <img src="class0520.png" alt="Project 2" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
+        <a href="https://your-streamlit-app-url.streamlit.app/">
+          <img src="blog_analysis_main.png" alt="네이버 블로그 분석 시스템" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
-        <h3>💡 Project 2 Name</h3>
+        <h3>🔍 AI 기반 네이버 블로그 분석 시스템</h3>
+        <p><sub>협찬 글 범람 시대, 객관적 정보만 추출하는 스마트 솔루션</sub></p>
         <p>
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/Naver_API-03C75A?style=flat-square&logo=naver&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         </p>
-     </td>
+        <p>
+          <strong>🎯 핵심 성과:</strong><br>
+          • 분석 시간 92% 단축 (25분 → 2분)<br>
+          • 최대 100개 블로그 동시 분석 자동화<br>
+          • AI 기반 광고성 콘텐츠 85% 정확도 필터링<br>
+          • 6가지 관점별 맞춤 분석 (가격/성능/디자인 등)<br>
+          • 경쟁 제품 실시간 비교 분석 기능
+        </p>
+        <p>
+          <a href="https://your-streamlit-app-url.streamlit.app/">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+          </a>
+          <a href="./blog_analysis_portfolio.pdf">
+            <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+          </a>
+          <a href="https://github.com/yourusername/blog-analysis-system">
+            <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
       <td width="50%" align="center">
         <a href="https://toiletprojectlfs-ynkzmvwgtayrtclo8ikz5a.streamlit.app/">
           <img src="toilet.png" alt="서울시 화장실 수급 현황 분석" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
@@ -68,9 +91,10 @@
             <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
         </p>
-
-
-<br>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
