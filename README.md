@@ -30,6 +30,7 @@
 
 <div align="center">
   <table>
+    <br>
     <tr>
       <td width="50%" align="center">
         <a href="https://your-streamlit-app-url.streamlit.app/">
