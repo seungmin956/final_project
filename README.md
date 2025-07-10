@@ -59,9 +59,6 @@
           <a href="./blog_analysis_portfolio.pdf">
             <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
-          <a href="https://github.com/yourusername/blog-analysis-system">
-            <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
         </p>
       </td>
       <td width="50%" align="center">
@@ -90,23 +87,17 @@
           <a href="./toilet_analysis_report.pdf">
             <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3>📫 Connect with Me</h3>
-  <p>
-    <a href="https://github.com/seungmin956">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:seungminlee956@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+    <div align="center">
+      <h3>📫 Connect with Me</h3>
+      <p>
+        <a href="https://github.com/seungmin956">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="mailto:seungminlee956@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+      </p>
+    </div>
 
 <br>
 
