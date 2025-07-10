@@ -59,11 +59,6 @@
           <a href="./blog_analysis_portfolio.pdf">
             <img src="https://img.shields.io/badge/📄_Portfolio-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
-          <br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
         </p>
       </td>
       <td width="50%" align="center">
