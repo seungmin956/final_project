@@ -1,4 +1,3 @@
-#  Portfolio Showcase
 ## ✨ Main Project
 
 <div align="center">
