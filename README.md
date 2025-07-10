@@ -33,7 +33,7 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://your-streamlit-app-url.streamlit.app/">
-          <img src="blog_analysis_main.png" alt="네이버 블로그 분석 시스템" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
+          <img src="class0520.png" alt="네이버 블로그 분석 시스템" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>🔍 AI 기반 네이버 블로그 분석 시스템</h3>
         <p><sub>협찬 글 범람 시대, 객관적 정보만 추출하는 스마트 솔루션</sub></p>
