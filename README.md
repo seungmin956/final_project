@@ -69,14 +69,6 @@
           </a>
         </p>
 
----
-
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  <p>
-    <img src="https://toiletprojectlfs-ynkzmvwgtayrtclo8ikz5a.streamlit.app/" />
-  </p>
-</div>
 
 <br>
 
