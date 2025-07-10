@@ -30,7 +30,6 @@
 
 <div align="center">
   <table>
-    <br>
     <tr>
       <td width="50%" align="center">
         <a href="https://your-streamlit-app-url.streamlit.app/">
@@ -38,7 +37,7 @@
         </a>
         <h3>🔍 AI 기반 네이버 블로그 분석 시스템</h3>
         <p><sub>협찬 글 범람 시대, 객관적 정보만 추출하는 스마트 솔루션</sub></p>
-        <br>
+        <br>  <!-- ✅ 여기는 맞음! -->
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -69,6 +68,7 @@
         </a>
         <h3>🚻 서울시 화장실 수급 현황 분석</h3>
         <p><sub>데이터로 풀어보는 도시 인프라 불평등 문제</sub></p>
+        <br>  <!-- ✅ 오른쪽에도 동일하게 추가 -->
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
