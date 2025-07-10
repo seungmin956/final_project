@@ -68,11 +68,6 @@
         <a href="mailto:seungminlee956@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
-      </p>
-    </div>
-
-<br>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
