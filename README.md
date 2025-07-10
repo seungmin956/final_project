@@ -6,7 +6,7 @@
 
 <br>
 
-## ✨ Featured Project
+## ✨ Main Project
 
 <div align="center">
   <a href="https://riskkiller.streamlit.app/">
@@ -26,7 +26,7 @@
 
 <br><br>
 
-## 🎨 More Amazing Works
+## 🎨 More Works
 
 <div align="center">
   <table>
