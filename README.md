@@ -81,7 +81,8 @@
           • 여성 화장실 구조적 불평등 통계적 입증 (p < 0.001)<br>
           • 423개 행정동 화장실 수급 현황 정량화<br>
           • 시간대별 화장실 대란 패턴 발굴<br>
-          • 지역별 우선순위 기반 정책 제안서 도출
+          • 지역별 우선순위 기반 정책 제안서 도출<br>
+          • 인구밀도 기반 화장실 수요 예측 모델 구축
         </p>
         <p>
           <a href="https://toiletprojectlfs-ynkzmvwgtayrtclo8ikz5a.streamlit.app/">
