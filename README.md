@@ -76,7 +76,6 @@
           <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
           <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
         </p>
-
         <p>
           <strong>🎯 핵심 성과:</strong><br>
           • 여성 화장실 구조적 불평등 통계적 입증 (p < 0.001)<br>
