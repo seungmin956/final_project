@@ -49,7 +49,7 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://your-streamlit-app-url.streamlit.app/">
+        <a href="https://miniproject-jr8xxsqb9p6kt67sspri2d.streamlit.app/">
           <img src="class_0520.png" alt="네이버 블로그 분석 시스템" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
         </a>
         <h3>🔍 AI 기반 네이버 블로그 분석 시스템</h3>
@@ -71,7 +71,7 @@
           • 경쟁 제품 실시간 비교 분석 기능
         </p>
         <p>
-          <a href="https://your-streamlit-app-url.streamlit.app/">
+          <a href="https://miniproject-jr8xxsqb9p6kt67sspri2d.streamlit.app/">
             <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
           </a>
           <a href="./toilet_analysis_report.pdf">
