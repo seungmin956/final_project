@@ -74,7 +74,7 @@
           <a href="https://miniproject-jr8xxsqb9p6kt67sspri2d.streamlit.app/">
             <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
           </a>
-          <a href="./toilet_analysis_report.pdf">
+          <a href="review_photofolio2.pdf">
             <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
           </a>
         </p>
