@@ -1,18 +1,19 @@
 <style>
-  h1 {
-    font-size: 28px !important;
-  }
-  h2 {
-    font-size: 28px !important;
-  }
-  h3 {
-    font-size: 18px !important;
-  }
+h1 { 
+  font-size: 28px !important; 
+}
+h2 { 
+  font-size: 28px !important; 
+}
+h3 { 
+  font-size: 18px !important; 
+}
 </style>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Amazing%20Projects&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Click%20to%20explore%20each%20project&descAlignY=51&descAlign=62" />
 </div>
+
 ## ✨ Main Project
 
 <div align="center">
