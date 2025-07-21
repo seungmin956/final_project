@@ -14,7 +14,7 @@
   <br><br>
   
   <h3>🎯 Risk Killer</h3>
-  <p><sub>프로젝트에 대한 간단한 설명을 여기에 작성하세요</sub></p>
+  <p><sub>FDA 데이터 기반, 미국 식품 시장 규제 준수 및 위험 관리 통합 솔루션</sub></p>
   <br>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -25,11 +25,11 @@
   </p>
   <p>
     <strong>🎯 핵심 성과:</strong><br>
-    • 성과 1번을 여기에 작성하세요<br>
-    • 성과 2번을 여기에 작성하세요<br>
-    • 성과 3번을 여기에 작성하세요<br>
-    • 성과 4번을 여기에 작성하세요<br>
-    • 성과 5번을 여기에 작성하세요
+    • FDA 데이터 크롤링 및 정제<br>
+    • 고급 RAG 챗봇 구현<br>
+    • Tableau 기반 시장 동향 시각화<br>
+    • AI 요약 및 데이터 추출<br>
+    • 올인원 솔루션 제공
   </p>
   <p>
     <a href="https://riskkiller.streamlit.app/">
