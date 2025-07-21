@@ -41,7 +41,7 @@
 
 <br><br>
 
-## 🎨 More Works
+## 🎨 Sub Project
 
 <div align="center">
   <table>
