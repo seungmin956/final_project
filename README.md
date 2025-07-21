@@ -2,21 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Amazing%20Projects&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Click%20to%20explore%20each%20project&descAlignY=51&descAlign=62" />
 </div>
 
-<style>
-  h3 {
-    font-size: 28px; /* 모든 h3 태그의 제목 크기를 일관되게 설정 */
-    margin-top: 20px; /* 상단 여백 추가 (선택 사항) */
-    margin-bottom: 5px; /* 하단 여백 조정 (선택 사항) */
-  }
-
-  p sub {
-    font-size: 18px; /* 모든 p sub 태그의 소제목 크기를 일관되게 설정 */
-    color: #666; /* 소제목 색상 조정 (선택 사항) */
-  }
-</style>
-
-<br>
-
 ## ✨ Main Project
 
 <div align="center">
