@@ -11,7 +11,8 @@
   <p>• <strong>LIVE DEMO</strong>: 실제 배포된 서비스<br>
   • <strong>PPT/REPORT</strong>: 기술 아키텍처 및 구현 과정 상세 설명</p>
   
-  <blockquote><strong>탐색 방법</strong>: Live Demo 확인 → 기술 문서 검토 , 각 프로젝트별 버튼을 클릭해주세요.</blockquote>
+  <blockquote><strong>탐색 방법</strong>: Live Demo 버튼을 클릭하시면 배포된 웹으로 연결되어 실제 서비스를 이용해보실 수 있습니다.
+                                         Report/ PPT 버튼을 클릭하시면 프로젝트에 대한 설명 파일로 연결됩니다.</blockquote>
 </div>
 
 ## ✨ Main Project
