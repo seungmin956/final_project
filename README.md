@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-**총 3개 프로젝트** (메인 1개 + 서브 2개)로 구성되어 있습니다.  
-기획부터 배포까지 전체 개발 사이클을 완주한 결과물입니다.
-
-### 프로젝트 구성
-- **LIVE DEMO**: 실제 배포된 서비스
-- **PPT/REPORT**: 기술 아키텍처 및 구현 과정 상세 분석
-
-> **탐색 방법**: Live Demo 확인 → 기술 문서 검토
+  <h2>프로젝트 포트폴리오</h2>
+  <p><strong>총 3개 프로젝트</strong> (메인 1개 + 서브 2개)로 구성되어 있습니다.<br>
+  기획부터 배포까지 전체 개발 사이클을 완주한 결과물입니다.</p>
+  
+  <h3>프로젝트 구성</h3>
+  <p>• <strong>LIVE DEMO</strong>: 실제 배포된 서비스<br>
+  • <strong>PPT/REPORT</strong>: 기술 아키텍처 및 구현 과정 상세 분석</p>
+  
+  <blockquote><strong>탐색 방법</strong>: Live Demo 확인 → 기술 문서 검토</blockquote>
 </div>
----
 
 ## ✨ Main Project
 
