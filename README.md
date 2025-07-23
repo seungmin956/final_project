@@ -33,8 +33,8 @@
     <a href="https://riskkiller-499jfjv3pdhsvujgyabrh9.streamlit.app/">
       <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
     </a>
-    <a href="">
-      <img src="Risk_killer_SM.pptx📄_PPT-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <a href="Risk_Killer_SM.pptx">
+      <img src="https://img.shields.io/badge/📄_PPT-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
     </a>
   </p>
 </div>
