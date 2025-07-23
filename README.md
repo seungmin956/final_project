@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Amazing%20Projects&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Click%20to%20explore%20each%20project&descAlignY=51&descAlign=62" />
 </div>
 
-## 실무 수준 프로젝트 포트폴리오
+## 프로젝트 포트폴리오
 
 **총 3개 프로젝트** (메인 1개 + 서브 2개)로 구성되어 있습니다.  
 기획부터 배포까지 전체 개발 사이클을 완주한 결과물입니다.
