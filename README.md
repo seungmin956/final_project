@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=My%20Amazing%20Projects&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Click%20to%20explore%20each%20project&descAlignY=51&descAlign=62" />
 </div>
 
+<div align="center">
 **총 3개 프로젝트** (메인 1개 + 서브 2개)로 구성되어 있습니다.  
 기획부터 배포까지 전체 개발 사이클을 완주한 결과물입니다.
 
@@ -10,7 +11,7 @@
 - **PPT/REPORT**: 기술 아키텍처 및 구현 과정 상세 분석
 
 > **탐색 방법**: Live Demo 확인 → 기술 문서 검토
-
+</div>
 ---
 
 ## ✨ Main Project
