@@ -30,13 +30,13 @@
     • 올인원 솔루션 제공
   </p>
   <p>
-    <a href="https://riskkiller-499jfjv3pdhsvujgyabrh9.streamlit.app/">
-      <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </a>
-    <a href="<a href="https://github.com/seungmin956/final_project/raw/main/Risk_killer_SM.pptx">">
-      <img src="https://img.shields.io/badge/📄_PPT-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-    </a>
-  </p>
+  <a href="https://riskkiller-499jfjv3pdhsvujgyabrh9.streamlit.app/">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+  <a href="https://github.com/seungmin956/final_project/raw/main/Risk_killer_SM.pptx">
+    <img src="https://img.shields.io/badge/📄_PPT-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 </div>
 
 <br><br>
