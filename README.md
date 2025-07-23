@@ -48,6 +48,9 @@
   <a href="https://github.com/seungmin956/final_project/raw/main/Risk_killer_SM.pptx">
     <img src="https://img.shields.io/badge/📄_PPT-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+    <a href="Risk_Killer_SM.pdf">
+            <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+          </a>
 </p>
 </div>
 
