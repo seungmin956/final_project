@@ -24,7 +24,7 @@
   <br><br>
   
   <h3>🎯 Risk Killer</h3>
-  <p><sub>FDA 데이터 기반, 미국 식품 시장 규제 준수 및 위험 관리 통합 솔루션</sub></p>
+  <p>FDA 데이터 기반, 미국 식품 시장 규제 준수 및 위험 관리 통합 솔루션</p>
   <br>
   <p>
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
