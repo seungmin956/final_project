@@ -18,7 +18,7 @@
 ## ✨ Main Project
 
 <div align="center">
-  <a href="https://riskkiller-499jfjv3pdhsvujgyabrh9.streamlit.app/">
+  <a href="https://riskkiller-nhtpcrjvvalrrkunrvrqow.streamlit.app/">
     <img src="riskkiller.png" alt="Risk Killer" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" width="85%">
   </a>
   
@@ -43,7 +43,7 @@
     • 올인원 솔루션 제공
   </p>
   <p>
-  <a href="https://riskkiller-499jfjv3pdhsvujgyabrh9.streamlit.app/">
+  <a href="https://riskkiller-nhtpcrjvvalrrkunrvrqow.streamlit.app/">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
   <a href="https://github.com/seungmin956/final_project/raw/main/Risk_killer_SM.pptx">
