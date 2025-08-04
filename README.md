@@ -37,7 +37,8 @@
   <p>
     <strong>🎯 핵심 성과:</strong><br>
     • FDA 데이터 크롤링 및 정제<br>
-    • 고급 RAG 챗봇 구현<br>
+    • RAG 챗봇 구현<br>
+    • ChromaDB+SQLit를 활용한 하이브리드 답변 제공<br>
     • Tableau 기반 시장 동향 시각화<br>
     • AI 요약 및 데이터 추출<br>
     • 올인원 솔루션 제공
