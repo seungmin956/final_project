@@ -12,7 +12,7 @@
   • <strong>PPT/REPORT</strong>: 기술 아키텍처 및 구현 과정 상세 설명</p>
   
   <blockquote><strong>탐색 방법</strong>: Live Demo 버튼을 클릭하시면 배포된 웹으로 연결되어 실제 서비스를 이용해보실 수 있습니다.<br>
-                                  Report/ PPT 버튼을 클릭하시면 프로젝트에 대한 설명 파일로 연결됩니다.</blockquote>
+                                  Report 버튼을 클릭하시면 프로젝트에 대한 설명 파일로 연결됩니다.</blockquote>
 </div>
 
 ## ✨ Main Project
@@ -45,9 +45,6 @@
   <p>
   <a href="https://functionriskkiller-5wmwxsr87emk8z5zh5nee3.streamlit.app/">
     <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  </a>
-  <a href="https://github.com/seungmin956/final_project/raw/main/Risk_killer_SM.pptx">
-    <img src="https://img.shields.io/badge/📄_PPT-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
     <a href="Risk_Killer_SM.pdf">
             <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
