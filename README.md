@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>프로젝트 포트폴리오</h2>
-  <p><strong>총 3개 프로젝트</strong> (메인 1개 + 서브 2개)로 구성되어 있습니다.<br>
+  <p><strong>총 2개 프로젝트</strong> (메인 1개 + 서브 1개)로 구성되어 있습니다.<br>
   </p>
   
   <h3>프로젝트 구성</h3>
@@ -91,40 +91,6 @@
           </a>
         </p>
       </td>
-      <td width="50%" align="center">
-        <a href="https://toiletprojectlfs-ynkzmvwgtayrtclo8ikz5a.streamlit.app/">
-          <img src="toilet.png" alt="서울시 화장실 수급 현황 분석" style="border-radius: 10px; transition: transform 0.3s;" width="95%">
-        </a>
-        <h3>🚻 서울시 화장실 수급 현황 분석</h3>
-        <p><sub>데이터로 풀어보는 도시 인프라 불평등 문제</sub></p>
-        <br>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-          <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-          <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-          <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-        </p>
-        <p>
-          <strong>🎯 핵심 성과:</strong><br>
-          • 여성 화장실 수급 부족 현상 통계적 검증<br>
-          • 화장실 수급 현황 정량화<br>
-          • 시간대별 화장실 대란 패턴 발굴<br>
-          • 지역별 우선순위 기반 정책 제안 도출<br>
-          • 수요 기반 수급 불균형 진단 로직 구축
-        </p>
-        <p>
-          <a href="https://toiletprojectlfs-ynkzmvwgtayrtclo8ikz5a.streamlit.app/">
-            <img src="https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-          </a>
-          <a href="toilet_photofolio2.pdf">
-            <img src="https://img.shields.io/badge/📄_Report-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br><br>
 
